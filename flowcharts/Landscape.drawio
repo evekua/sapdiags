@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.4">
   <diagram name="Page-1" id="UYqeQlyZ-sGuL6F-DO5g">
-    <mxGraphModel dx="3827" dy="1873" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5140" dy="2610" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry x="-928.3257142857145" y="1666.7414285714287" width="71" height="36" as="geometry" />
         </mxCell>
         <mxCell id="2T4lzLgg6mBwJn-4TOFU-5" value="&lt;font color=&quot;#0070f2&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;GEMS (ATLAS COPCO / LEWA)&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="-440" y="-365" width="541" height="34" as="geometry" />
+          <mxGeometry x="-980" y="-385" width="541" height="34" as="geometry" />
         </mxCell>
         <mxCell id="2T4lzLgg6mBwJn-4TOFU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
