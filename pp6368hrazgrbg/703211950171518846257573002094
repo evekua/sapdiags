@@ -8,22 +8,16 @@
           <mxGeometry y="162" width="870" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TUulzCGxISipftcBumCU-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry y="102" width="870" height="60" as="geometry" />
+          <mxGeometry y="102" width="940" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TUulzCGxISipftcBumCU-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry y="42" width="870" height="60" as="geometry" />
+          <mxGeometry y="42" width="940" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TUulzCGxISipftcBumCU-16" value="Quality" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="405" y="162" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TUulzCGxISipftcBumCU-19" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#F2F2F2;" vertex="1" parent="1">
-          <mxGeometry y="252" width="870" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="TUulzCGxISipftcBumCU-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="42" width="50" height="370" as="geometry" />
-        </mxCell>
-        <mxCell id="TUulzCGxISipftcBumCU-23" value="S4Flow&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Subaccount&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="296" width="170" height="70" as="geometry" />
+          <mxGeometry y="252" width="940" height="160" as="geometry" />
         </mxCell>
         <mxCell id="TUulzCGxISipftcBumCU-27" value="| SAP BTP X-landscape Components" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3" y="100" width="217" height="30" as="geometry" />
@@ -33,21 +27,6 @@
         </mxCell>
         <mxCell id="TUulzCGxISipftcBumCU-31" value="&amp;nbsp; S4Flow&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Subaccount&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="250" y="112" width="330" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="TUulzCGxISipftcBumCU-34" value="SAP CPI - D" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="346" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="TUulzCGxISipftcBumCU-35" value="S4Flow&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Subaccount&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="296" width="170" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="TUulzCGxISipftcBumCU-36" value="SAP CPI - D" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="346" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="TUulzCGxISipftcBumCU-37" value="S4Flow&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Subaccount&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="291" width="170" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="TUulzCGxISipftcBumCU-38" value="SAP CPI - D" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="341" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TUulzCGxISipftcBumCU-39" value="Business Application Studio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="387.5" y="122" width="155" height="20" as="geometry" />
@@ -68,16 +47,7 @@
           <mxGeometry x="700" y="162" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TUulzCGxISipftcBumCU-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry y="192" width="870" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TUulzCGxISipftcBumCU-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry y="162" width="290" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="TUulzCGxISipftcBumCU-13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="162" width="290" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="TUulzCGxISipftcBumCU-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="580" y="162" width="290" height="250" as="geometry" />
+          <mxGeometry y="192" width="940" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TUulzCGxISipftcBumCU-46" value="Cloud connector" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=Cloud_Connector2" vertex="1" parent="1">
           <mxGeometry x="126.25" y="199" width="27.5" height="27.5" as="geometry" />
@@ -88,11 +58,62 @@
         <mxCell id="TUulzCGxISipftcBumCU-50" value="Cloud connector" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=Cloud_Connector2" vertex="1" parent="1">
           <mxGeometry x="711.25" y="199" width="27.5" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="TUulzCGxISipftcBumCU-51" value="| SAP BTP&amp;nbsp; Global Account" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="830" y="226.5" width="150" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="TUulzCGxISipftcBumCU-52" value="&lt;font face=&quot;arial&quot; color=&quot;#0070f2&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;SAP BTP Infrastructure of S4Flow&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1d2d3e;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry y="2.2737367544323206e-13" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TUulzCGxISipftcBumCU-55" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="880" y="42" width="50" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="TUulzCGxISipftcBumCU-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TUulzCGxISipftcBumCU-55">
+          <mxGeometry width="50" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="TUulzCGxISipftcBumCU-51" value="| SAP BTP&amp;nbsp; Global Account" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="TUulzCGxISipftcBumCU-55">
+          <mxGeometry x="-50" y="184.5" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TUulzCGxISipftcBumCU-56" value="OnP SAP servers" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/cluster_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="126.25" y="440" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUulzCGxISipftcBumCU-57" value="OnP SAP servers" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/cluster_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="418.75" y="440" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUulzCGxISipftcBumCU-58" value="OnP SaP servers" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/cluster_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="720" y="440" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUulzCGxISipftcBumCU-13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="162" width="290" height="388" as="geometry" />
+        </mxCell>
+        <mxCell id="TUulzCGxISipftcBumCU-60" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="296" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TUulzCGxISipftcBumCU-35" value="S4Flow&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Subaccount&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TUulzCGxISipftcBumCU-60">
+          <mxGeometry width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TUulzCGxISipftcBumCU-36" value="SAP CPI - D" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TUulzCGxISipftcBumCU-60">
+          <mxGeometry x="90" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TUulzCGxISipftcBumCU-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="162" width="290" height="388" as="geometry" />
+        </mxCell>
+        <mxCell id="TUulzCGxISipftcBumCU-59" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="296" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TUulzCGxISipftcBumCU-23" value="S4Flow&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Subaccount&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TUulzCGxISipftcBumCU-59">
+          <mxGeometry width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TUulzCGxISipftcBumCU-34" value="SAP CPI - D" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TUulzCGxISipftcBumCU-59">
+          <mxGeometry x="90" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TUulzCGxISipftcBumCU-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="162" width="290" height="388" as="geometry" />
+        </mxCell>
+        <mxCell id="TUulzCGxISipftcBumCU-61" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="640" y="291" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TUulzCGxISipftcBumCU-37" value="S4Flow&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Subaccount&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TUulzCGxISipftcBumCU-61">
+          <mxGeometry width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TUulzCGxISipftcBumCU-38" value="SAP CPI - D" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TUulzCGxISipftcBumCU-61">
+          <mxGeometry x="90" y="50" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
