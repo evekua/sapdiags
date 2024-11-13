@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.4" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.6" pages="2">
   <diagram name="RefArch-CC" id="AN_9IjLNjn_1qUvKp_32">
     <mxGraphModel dx="1426" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,9 +73,6 @@
         <mxCell id="p3zBbSwWraFgUXBVUTmJ-159" value="&lt;font color=&quot;#475e75&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;&quot;&gt;RFC&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#475E75;fillColor=#f5f6f7;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="871.01" y="888" width="46" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="p3zBbSwWraFgUXBVUTmJ-160" value="" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=SAP_Destination_service" parent="1" vertex="1">
-          <mxGeometry x="831.26" y="640" width="50" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="p3zBbSwWraFgUXBVUTmJ-161" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=16;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="784.01" y="50" width="396.19" height="360" as="geometry" />
         </mxCell>
@@ -140,7 +137,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p3zBbSwWraFgUXBVUTmJ-41" value="&lt;font color=&quot;#475e75&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;&quot;&gt;HTTPS&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#475E75;fillColor=#f5f6f7;strokeWidth=1.5;" parent="1" vertex="1">
-          <mxGeometry x="849.01" y="462.55" width="46" height="16" as="geometry" />
+          <mxGeometry x="825.01" y="462.55" width="46" height="16" as="geometry" />
         </mxCell>
         <mxCell id="p3zBbSwWraFgUXBVUTmJ-118" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1.5;arcSize=16;fillColor=#F5F6F7;perimeterSpacing=0;imageHeight=24;absoluteArcSize=1;points=[];connectable=0;container=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="50" width="300" height="465.21" as="geometry" />
