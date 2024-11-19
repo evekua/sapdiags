@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.6">
   <diagram name="Page-1" id="UYqeQlyZ-sGuL6F-DO5g">
-    <mxGraphModel dx="4031" dy="2417" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4384" dy="2587" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,10 +25,10 @@
         <mxCell id="mNlLsKcJtAFa9dxgMDSv-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9933FF;arcSize=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#FFCCCC;" parent="1" vertex="1">
           <mxGeometry x="2322" y="835.3499999999999" width="1046" height="596.65" as="geometry" />
         </mxCell>
-        <mxCell id="2T4lzLgg6mBwJn-4TOFU-4" value="DC _IFL_OnP" style="text;whiteSpace=wrap;html=1;fontFamily=Arial;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="-1390" y="839" width="129" height="36" as="geometry" />
+        <mxCell id="2T4lzLgg6mBwJn-4TOFU-4" value="DC _Kyndryl_Corp_OnP" style="text;whiteSpace=wrap;html=1;fontFamily=Arial;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="-1390" y="839" width="148" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="2T4lzLgg6mBwJn-4TOFU-5" value="&lt;font color=&quot;#0070f2&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;GEMS (ATLAS COPCO / LEWA)&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="2T4lzLgg6mBwJn-4TOFU-5" value="&lt;font color=&quot;#0070f2&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;GEMS (ATLAS COPCO)&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="-1430" y="-1083" width="541" height="34" as="geometry" />
         </mxCell>
         <mxCell id="2T4lzLgg6mBwJn-4TOFU-12" value="INTERNET" style="text;whiteSpace=wrap;html=1;fontFamily=Arial;" parent="1" vertex="1">
@@ -377,6 +377,21 @@
         </mxCell>
         <mxCell id="ia-yQ20IAJAmDfs05-5g-1" value="" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=Cloud_Connector2" vertex="1" parent="1">
           <mxGeometry x="-1142" y="2645" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ia-yQ20IAJAmDfs05-5g-2" value="LEWA" style="text;whiteSpace=wrap;html=1;fontFamily=Arial;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-1385.22" y="-924" width="129" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="ia-yQ20IAJAmDfs05-5g-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Configuration&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="-1211" y="-433" width="127" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="ia-yQ20IAJAmDfs05-5g-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Clarify DC connectivity&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ia-yQ20IAJAmDfs05-5g-6">
+          <mxGeometry y="30" width="127" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="ia-yQ20IAJAmDfs05-5g-8" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Configuration&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-753" width="127" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="ia-yQ20IAJAmDfs05-5g-9" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Direct&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;RFC Move?&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ia-yQ20IAJAmDfs05-5g-8">
+          <mxGeometry y="30" width="127" height="44" as="geometry" />
         </mxCell>
         <mxCell id="mNlLsKcJtAFa9dxgMDSv-182" value="Infra. Notes" parent="0" />
         <mxCell id="mNlLsKcJtAFa9dxgMDSv-52" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Configuration&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#FFE599;" parent="mNlLsKcJtAFa9dxgMDSv-182" vertex="1">
