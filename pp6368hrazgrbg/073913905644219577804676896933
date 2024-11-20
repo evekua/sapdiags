@@ -121,7 +121,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wUWlpm3LjGD6ENcncEMS-36" value="In/Out Shared Folder" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="560" y="230" width="60" height="30" as="geometry" />
+          <mxGeometry x="570" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wUWlpm3LjGD6ENcncEMS-37" value="In/Out Shared Folder" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="710" y="185" width="60" height="30" as="geometry" />
