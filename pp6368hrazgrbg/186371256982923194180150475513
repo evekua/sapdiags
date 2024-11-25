@@ -26,13 +26,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vtkUC-8bVgKeJoLfEnw0-13" value="RFC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="420" y="200" width="44" height="20" as="geometry" />
+          <mxGeometry x="420" y="208" width="44" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vtkUC-8bVgKeJoLfEnw0-14" value="HANA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="420" y="240" width="44" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="vtkUC-8bVgKeJoLfEnw0-15" value="HANA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="624" y="200" width="56" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vtkUC-8bVgKeJoLfEnw0-16" value="HANA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="624" y="240" width="56" height="20" as="geometry" />
@@ -40,11 +37,11 @@
         <mxCell id="vtkUC-8bVgKeJoLfEnw0-17" value="SAP ECC&lt;div&gt;App. server&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="150" y="338.5" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="vtkUC-8bVgKeJoLfEnw0-18" value="SAP IPS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="464" y="150" width="166" height="27.5" as="geometry" />
+        <mxCell id="vtkUC-8bVgKeJoLfEnw0-18" value="SAP BO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="470.5" y="171.5" width="156" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="vtkUC-8bVgKeJoLfEnw0-19" value="SAP BODS&lt;div&gt;Data Services&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="464" y="192.5" width="166" height="77.5" as="geometry" />
+          <mxGeometry x="465" y="201" width="166" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vtkUC-8bVgKeJoLfEnw0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;entryPerimeter=0;dashed=1;dashPattern=1 2;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;startArrow=none;startFill=0;" parent="1" source="vtkUC-8bVgKeJoLfEnw0-14" target="vtkUC-8bVgKeJoLfEnw0-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -211,7 +208,7 @@
           <mxGeometry x="840" y="334" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="vtkUC-8bVgKeJoLfEnw0-94" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;BODS&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;SCHEMA&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=3.013946533203125;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="930" y="546" width="50" height="50" as="geometry" />
+          <mxGeometry x="631" y="135.5" width="50" height="36" as="geometry" />
         </mxCell>
         <mxCell id="vtkUC-8bVgKeJoLfEnw0-95" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;S/4&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;SCHEMA&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=3.013946533203125;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="800" y="510" width="50" height="50" as="geometry" />
@@ -268,16 +265,6 @@
             <mxPoint x="610" y="523" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vtkUC-8bVgKeJoLfEnw0-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=1;entryPerimeter=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" source="vtkUC-8bVgKeJoLfEnw0-15" target="vtkUC-8bVgKeJoLfEnw0-94" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="444" y="220" as="sourcePoint" />
-            <mxPoint x="280" y="371" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1100" y="210" />
-              <mxPoint x="1100" y="571" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vtkUC-8bVgKeJoLfEnw0-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;dashed=1;dashPattern=1 2;strokeWidth=3;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="vtkUC-8bVgKeJoLfEnw0-16" target="vtkUC-8bVgKeJoLfEnw0-90" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="664" y="220" as="sourcePoint" />
@@ -325,7 +312,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xhZCekd5TbZ2rkOPGN1u-12" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Windows VM recommended&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="604" y="100" width="70" height="30" as="geometry" />
+          <mxGeometry x="610" y="89" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xhZCekd5TbZ2rkOPGN1u-13" value="VM" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="940" y="419" width="60" height="30" as="geometry" />
@@ -338,9 +325,6 @@
         </mxCell>
         <mxCell id="xhZCekd5TbZ2rkOPGN1u-17" value="VM" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="128" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xhZCekd5TbZ2rkOPGN1u-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ODBC RW&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="820" y="185" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xhZCekd5TbZ2rkOPGN1u-19" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ODBC RW&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="820" y="222.25" width="60" height="30" as="geometry" />
@@ -398,6 +382,9 @@
         </mxCell>
         <mxCell id="xhZCekd5TbZ2rkOPGN1u-36" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Technical connection&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="980" y="133" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ep-1XFx26WE2vfqYwJa_-1" value="MS SQL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="470" y="141.5" width="156" height="27.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
