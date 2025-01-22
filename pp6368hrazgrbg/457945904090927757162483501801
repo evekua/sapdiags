@@ -309,9 +309,6 @@
         <mxCell id="Shu1cbAPtD8Xd1nJUrkj-106" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.route_53_resolver_dns_firewall;" parent="1" vertex="1">
           <mxGeometry x="-416.31" y="-1860" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="Shu1cbAPtD8Xd1nJUrkj-115" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="5aVOsLMEkUVClwSF6Kt8-9" target="Shu1cbAPtD8Xd1nJUrkj-106" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Shu1cbAPtD8Xd1nJUrkj-110" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#330066;fillColor=#330066;size=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="-1700" width="60" height="60" as="geometry" />
         </mxCell>
@@ -596,7 +593,7 @@
         <mxCell id="5aVOsLMEkUVClwSF6Kt8-8" value="&lt;font color=&quot;#0070f2&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;LEWA Environments&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-1644" y="-1734" width="541" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="5aVOsLMEkUVClwSF6Kt8-10" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Shu1cbAPtD8Xd1nJUrkj-110" target="5aVOsLMEkUVClwSF6Kt8-9">
+        <mxCell id="5aVOsLMEkUVClwSF6Kt8-10" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Shu1cbAPtD8Xd1nJUrkj-110" target="Shu1cbAPtD8Xd1nJUrkj-106">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="-1700" as="sourcePoint" />
             <mxPoint x="-377" y="-1783" as="targetPoint" />
