@@ -46,7 +46,7 @@
         <mxCell id="TUulzCGxISipftcBumCU-39" value="Business Application Studio" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#f2f2f2, #121212);" parent="TUulzCGxISipftcBumCU-60" vertex="1">
           <mxGeometry x="1" y="-4" width="159" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ns7Kn1mcuFgpcMkWvnlS-5" value="SAP CPI - Q" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#f2f2f2, #121212);" vertex="1" parent="TUulzCGxISipftcBumCU-60">
+        <mxCell id="ns7Kn1mcuFgpcMkWvnlS-5" value="SAP CPI - Q" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#f2f2f2, #121212);" parent="TUulzCGxISipftcBumCU-60" vertex="1">
           <mxGeometry y="70" width="159" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TUulzCGxISipftcBumCU-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="1" vertex="1">
@@ -94,22 +94,19 @@
         <mxCell id="GU54HpKufIr5OOkCpo2v-10" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Subaccount:&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(29, 45, 62); font-family: &amp;quot;72&amp;quot;, &amp;quot;72full&amp;quot;, Arial, Helvetica, sans-serif; font-weight: 700; text-align: left; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;pt-cpi-lewa-dev-stg-spcf2hmb&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="-409" y="90" width="202" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="ns7Kn1mcuFgpcMkWvnlS-1" value="BTP S4Flow &lt;b&gt;P&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Subaccount&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="192.5" y="113.5" width="251" height="113" as="geometry" />
+        <mxCell id="ns7Kn1mcuFgpcMkWvnlS-1" value="BTP S4Flow &lt;b&gt;P&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Subaccount&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="192.5" y="119.5" width="251" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="ns7Kn1mcuFgpcMkWvnlS-2" value="Business Application Studio" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#f2f2f2, #121212);" vertex="1" parent="1">
-          <mxGeometry x="238.5" y="123.5" width="159" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ns7Kn1mcuFgpcMkWvnlS-3" value="Cloud connector - Q" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=Cloud_Connector2" vertex="1" parent="1">
+        <mxCell id="ns7Kn1mcuFgpcMkWvnlS-3" value="Cloud connector - Q" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=Cloud_Connector2" parent="1" vertex="1">
           <mxGeometry x="14.5" y="266" width="27.5" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="ns7Kn1mcuFgpcMkWvnlS-4" value="Cloud connector - P" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=Cloud_Connector2" vertex="1" parent="1">
+        <mxCell id="ns7Kn1mcuFgpcMkWvnlS-4" value="Cloud connector - P" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=Cloud_Connector2" parent="1" vertex="1">
           <mxGeometry x="324" y="266" width="27.5" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="ns7Kn1mcuFgpcMkWvnlS-10" value="SAP CPI - P" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#f2f2f2, #121212);" vertex="1" parent="1">
-          <mxGeometry x="249" y="198" width="159" height="20" as="geometry" />
+        <mxCell id="ns7Kn1mcuFgpcMkWvnlS-10" value="SAP CPI - P" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#f2f2f2, #121212);" parent="1" vertex="1">
+          <mxGeometry x="249" y="203" width="159" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ns7Kn1mcuFgpcMkWvnlS-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=0.5;" edge="1" parent="1" source="TUulzCGxISipftcBumCU-35" target="ns7Kn1mcuFgpcMkWvnlS-3">
+        <mxCell id="ns7Kn1mcuFgpcMkWvnlS-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=0.5;" parent="1" source="TUulzCGxISipftcBumCU-35" target="ns7Kn1mcuFgpcMkWvnlS-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="95" y="161" as="sourcePoint" />
             <mxPoint x="73" y="253" as="targetPoint" />
