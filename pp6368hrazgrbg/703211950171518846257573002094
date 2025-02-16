@@ -46,7 +46,7 @@
         <mxCell id="TUulzCGxISipftcBumCU-39" value="Business Application Studio" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#f2f2f2, #121212);" parent="TUulzCGxISipftcBumCU-60" vertex="1">
           <mxGeometry x="1" y="-4" width="159" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ns7Kn1mcuFgpcMkWvnlS-5" value="SPA CPI - Q" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#f2f2f2, #121212);" vertex="1" parent="TUulzCGxISipftcBumCU-60">
+        <mxCell id="ns7Kn1mcuFgpcMkWvnlS-5" value="SAP CPI - Q" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#f2f2f2, #121212);" vertex="1" parent="TUulzCGxISipftcBumCU-60">
           <mxGeometry y="70" width="159" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TUulzCGxISipftcBumCU-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="1" vertex="1">
@@ -106,7 +106,7 @@
         <mxCell id="ns7Kn1mcuFgpcMkWvnlS-4" value="Cloud connector - P" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=Cloud_Connector2" vertex="1" parent="1">
           <mxGeometry x="324" y="266" width="27.5" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="ns7Kn1mcuFgpcMkWvnlS-10" value="SPA CPI - P" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#f2f2f2, #121212);" vertex="1" parent="1">
+        <mxCell id="ns7Kn1mcuFgpcMkWvnlS-10" value="SAP CPI - P" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#f2f2f2, #121212);" vertex="1" parent="1">
           <mxGeometry x="249" y="198" width="159" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ns7Kn1mcuFgpcMkWvnlS-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=0.5;" edge="1" parent="1" source="TUulzCGxISipftcBumCU-35" target="ns7Kn1mcuFgpcMkWvnlS-3">
