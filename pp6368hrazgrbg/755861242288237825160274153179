@@ -59,7 +59,7 @@
           <mxGeometry x="368" y="900" width="800" height="210" as="geometry" />
         </mxCell>
         <mxCell id="p3zBbSwWraFgUXBVUTmJ-156" value="" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=SAP_Integration_Suite_-_Cloud_Integration" parent="1" vertex="1">
-          <mxGeometry x="647.8199999999999" y="595.07" width="40" height="40" as="geometry" />
+          <mxGeometry x="644.6999999999999" y="611" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p3zBbSwWraFgUXBVUTmJ-139" value="" style="endArrow=blockThin;html=1;strokeColor=#475E75;bendable=1;rounded=0;endFill=1;endSize=4;strokeWidth=1.5;startSize=4;startArrow=none;startFill=0;edgeStyle=elbowEdgeStyle;elbow=vertical;jumpStyle=gap;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="p3zBbSwWraFgUXBVUTmJ-159" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -239,7 +239,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9_gX6qWqitX9amdwDquq-2" value="Peek-lock" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="653.55" y="641" width="60" height="30" as="geometry" />
+          <mxGeometry x="653.55" y="585" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9_gX6qWqitX9amdwDquq-4" value="" style="endArrow=blockThin;html=1;strokeColor=#475E75;bendable=1;rounded=0;endFill=1;endSize=4;strokeWidth=1.5;startSize=4;startArrow=none;startFill=0;edgeStyle=elbowEdgeStyle;elbow=vertical;jumpStyle=gap;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -248,10 +248,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9_gX6qWqitX9amdwDquq-6" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4;opacity=20;" vertex="1" parent="1">
-          <mxGeometry x="822.4" y="606" width="10" height="50" as="geometry" />
+          <mxGeometry x="822.4" y="615" width="10" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9_gX6qWqitX9amdwDquq-7" value="JMS&lt;div&gt;queue&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="822.4" y="615" width="60" height="30" as="geometry" />
+          <mxGeometry x="822.4" y="635" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
