@@ -263,7 +263,7 @@
           <mxGeometry x="355.30000000000007" y="960" width="470" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PrpMBf08hEy6mKHhetTv-2" value="&lt;font color=&quot;#475e75&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;&quot;&gt;HTTPS&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#475E75;fillColor=#FFFFFF;strokeWidth=1.5;" parent="1" vertex="1">
-          <mxGeometry x="700" y="920" width="46" height="16" as="geometry" />
+          <mxGeometry x="700" y="940" width="46" height="16" as="geometry" />
         </mxCell>
         <mxCell id="DuP0PHYJ4FX6-KiZdkoz-2" value="" style="endArrow=blockThin;html=1;strokeColor=#475E75;bendable=1;rounded=0;endFill=1;endSize=4;strokeWidth=1.5;startSize=4;startArrow=none;startFill=0;edgeStyle=elbowEdgeStyle;elbow=vertical;jumpStyle=gap;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="p3zBbSwWraFgUXBVUTmJ-168" target="DuP0PHYJ4FX6-KiZdkoz-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -272,10 +272,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p3zBbSwWraFgUXBVUTmJ-41" value="&lt;font color=&quot;#475e75&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;&quot;&gt;HTTPS&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#475E75;fillColor=#FFFFFF;strokeWidth=1.5;" parent="1" vertex="1">
-          <mxGeometry x="779.1999999999999" y="920" width="46" height="16" as="geometry" />
+          <mxGeometry x="779.1999999999999" y="940" width="46" height="16" as="geometry" />
         </mxCell>
         <mxCell id="DuP0PHYJ4FX6-KiZdkoz-1" value="&lt;font color=&quot;#475e75&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;&quot;&gt;WS&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#475E75;fillColor=#f5f6f7;strokeWidth=1.5;" vertex="1" parent="1">
           <mxGeometry x="778.76" y="680.14" width="46" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="DuP0PHYJ4FX6-KiZdkoz-3" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.proxy_appliance;" vertex="1" parent="1">
+          <mxGeometry x="785.76" y="794" width="31.7" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DuP0PHYJ4FX6-KiZdkoz-4" value="Zscaler Proxy" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="798" y="795" width="120.21" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
