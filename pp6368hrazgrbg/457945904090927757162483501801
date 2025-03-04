@@ -495,7 +495,7 @@
           <mxGeometry x="-1029" y="-905.5" width="940" height="461" as="geometry" />
         </mxCell>
         <mxCell id="Shu1cbAPtD8Xd1nJUrkj-127" value="&lt;p style=&quot;language:fr-BE;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;color: light-dark(black, rgb(237, 237, 237)); background-color: transparent;&quot;&gt;Leonberg DC&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;language:fr-BE;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;color: light-dark(black, rgb(237, 237, 237)); background-color: transparent;&quot;&gt;IP network:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;10.150.*.*&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Courier New;" parent="1" vertex="1">
-          <mxGeometry x="-359" y="-510" width="250" height="40" as="geometry" />
+          <mxGeometry x="-362" y="-500" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5aVOsLMEkUVClwSF6Kt8-13" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1009" y="-867" width="150" height="86" as="geometry" />
@@ -753,7 +753,7 @@
           <mxGeometry x="77" y="60" width="62.87" height="22" as="geometry" />
         </mxCell>
         <mxCell id="FSPqKbjvQgrBWGm4dVof-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=12;strokeColor=#FFFFFF;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="-1010" y="-887" width="921" height="407" as="geometry" />
+          <mxGeometry x="-1010" y="-887" width="921" height="397" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
