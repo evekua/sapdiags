@@ -253,7 +253,7 @@
         <mxCell id="9_gX6qWqitX9amdwDquq-7" value="JMS&lt;div&gt;queue&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="822.4" y="635" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SBgBAMVp_z4XijS4Y4hS-1" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;width=18;endSize=10;fillColor=#FF96B5;strokeColor=none;endWidth=10;startWidth=10;startSize=10;exitX=0.78;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="SBgBAMVp_z4XijS4Y4hS-1" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;width=18;endSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;endWidth=10;startWidth=10;startSize=10;exitX=0.78;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="1009.9999999999998" y="399.99999999999994" as="sourcePoint" />
             <mxPoint x="1010.76" y="78.95000000000003" as="targetPoint" />
@@ -264,6 +264,9 @@
             <mxPoint x="330" y="420" as="sourcePoint" />
             <mxPoint x="1195" y="420" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SBgBAMVp_z4XijS4Y4hS-3" value="Scope of Azure Team" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1018.4700000000001" y="235.31" width="135.35" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
