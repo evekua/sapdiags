@@ -311,16 +311,16 @@
         <mxCell id="QUjjbbLPGSbiN5kmCASL-9" value="Subscriprion" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="574.9699999999999" y="336" width="120.21" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QUjjbbLPGSbiN5kmCASL-10" value="Queue/Topic" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="QUjjbbLPGSbiN5kmCASL-10" value="Queue" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="574.9699999999999" y="269" width="120.21" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QUjjbbLPGSbiN5kmCASL-11" value="Queue/Topic" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="429.9999999999999" y="341.25" width="120.21" height="30" as="geometry" />
+        <mxCell id="QUjjbbLPGSbiN5kmCASL-11" value="Error Queue" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="451.74" y="341.25" width="70.21" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QUjjbbLPGSbiN5kmCASL-12" value="Subscriprion" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="419.9999999999999" y="269" width="120.21" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QUjjbbLPGSbiN5kmCASL-13" value="Queue/Topic" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="QUjjbbLPGSbiN5kmCASL-13" value="Queue" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="863.79" y="336" width="120.21" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QUjjbbLPGSbiN5kmCASL-14" value="Subscriprion" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
