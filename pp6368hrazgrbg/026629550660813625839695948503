@@ -73,8 +73,8 @@
         <mxCell id="YExI4yHsKbutZMydvR6l-2" value="Kyndryl DC" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="415" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ag6n6MGdxhKGjAD44L3v-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3333FF;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="740" width="120" height="60" as="geometry" />
+        <mxCell id="ag6n6MGdxhKGjAD44L3v-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="700" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
