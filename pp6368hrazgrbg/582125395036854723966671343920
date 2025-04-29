@@ -150,7 +150,7 @@
           <mxGeometry x="710.79" y="944" width="46" height="16" as="geometry" />
         </mxCell>
         <mxCell id="p3zBbSwWraFgUXBVUTmJ-159" value="&lt;font color=&quot;#475e75&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;&quot;&gt;HTTPS&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#475E75;fillColor=#f5f6f7;strokeWidth=1.5;" parent="1" vertex="1">
-          <mxGeometry x="718.26" y="800" width="46" height="16" as="geometry" />
+          <mxGeometry x="707.26" y="800" width="46" height="16" as="geometry" />
         </mxCell>
         <mxCell id="IHqEQNoK1fW0szwRi3bw-38" value="" style="endArrow=blockThin;html=1;strokeColor=#475E75;bendable=1;rounded=0;endFill=1;endSize=4;strokeWidth=1.5;startSize=4;startArrow=none;startFill=0;edgeStyle=elbowEdgeStyle;elbow=vertical;jumpStyle=gap;exitX=0.719;exitY=-0.015;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" edge="1" target="D_vlgS3FLmE0en8m67Bl-7" source="p3zBbSwWraFgUXBVUTmJ-168">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
