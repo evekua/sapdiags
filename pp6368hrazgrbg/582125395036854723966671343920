@@ -192,7 +192,7 @@
           <mxGeometry x="990" y="227.9" width="80" height="28.25" as="geometry" />
         </mxCell>
         <mxCell id="p3zBbSwWraFgUXBVUTmJ-157" value="Cloud Connector" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=Cloud_Connector2" parent="1" vertex="1">
-          <mxGeometry x="724.26" y="854" width="40" height="40" as="geometry" />
+          <mxGeometry x="714.26" y="854" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IHqEQNoK1fW0szwRi3bw-50" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Service_Bus.svg;" parent="1" vertex="1">
           <mxGeometry x="507" y="294" width="50" height="50" as="geometry" />
