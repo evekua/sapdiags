@@ -31,8 +31,8 @@
         <mxCell id="QUQJWYeAoMYdc9M1LaBG-7" value="&lt;font face=&quot;arial&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Subaccount&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1d2d3e;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="370" y="468.55" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QUQJWYeAoMYdc9M1LaBG-8" value="&lt;font face=&quot;arial&quot; color=&quot;#0070f2&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;IF - DATAVERSE to S4Flow&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1d2d3e;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="30" y="11.000000000000227" width="230" height="30" as="geometry" />
+        <mxCell id="QUQJWYeAoMYdc9M1LaBG-8" value="&lt;font face=&quot;arial&quot; color=&quot;#0070f2&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;IF - DATAVERSE CRM to S4Flow&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1d2d3e;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="30" y="11.000000000000227" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QUQJWYeAoMYdc9M1LaBG-9" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#cc00dc;fillColor=#FFF0FA;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;fontFamily=Arial;" parent="1" vertex="1">
           <mxGeometry x="629.7" y="550" width="260" height="130.14" as="geometry" />
