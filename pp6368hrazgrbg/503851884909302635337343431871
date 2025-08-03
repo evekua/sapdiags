@@ -47,10 +47,10 @@
           <mxGeometry x="734.21" y="455" width="107.0864" height="20" as="geometry" />
         </mxCell>
         <mxCell id="p3zBbSwWraFgUXBVUTmJ-143" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=16;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;" parent="1" vertex="1">
-          <mxGeometry x="354.7" y="657" width="830.5" height="333" as="geometry" />
+          <mxGeometry x="354.7" y="657" width="830.5" height="343" as="geometry" />
         </mxCell>
         <mxCell id="p3zBbSwWraFgUXBVUTmJ-144" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;strokeWidth=1.5;arcSize=16;fillColor=#FFFFFF;perimeterSpacing=0;absoluteArcSize=1;" parent="1" vertex="1">
-          <mxGeometry x="369.95" y="747" width="800" height="203" as="geometry" />
+          <mxGeometry x="369.95" y="747" width="800" height="223" as="geometry" />
         </mxCell>
         <mxCell id="p3zBbSwWraFgUXBVUTmJ-156" value="" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=SAP_Integration_Suite_-_Cloud_Integration" parent="1" vertex="1">
           <mxGeometry x="645.3" y="424" width="40" height="40" as="geometry" />
@@ -169,8 +169,8 @@
             <mxPoint x="689" y="1202" as="targetPoint" />
             <mxPoint x="260" y="760" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="105" y="970" />
-              <mxPoint x="884" y="970" />
+              <mxPoint x="105" y="960" />
+              <mxPoint x="884" y="960" />
               <mxPoint x="884" y="924" />
             </Array>
           </mxGeometry>
