@@ -112,6 +112,9 @@
         <mxCell id="YtSmiink99tL--eMWxtZ-6" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;BAPI_OBJCL_CREATE&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="p3zBbSwWraFgUXBVUTmJ-167" vertex="1">
           <mxGeometry x="31.5" y="78.98000000000002" width="105.18" height="18.25" as="geometry" />
         </mxCell>
+        <mxCell id="6_qQM6AZ4Ct-V2CyC2Vg-13" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Deployed Fiori&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="p3zBbSwWraFgUXBVUTmJ-167" vertex="1">
+          <mxGeometry x="160.49" y="129.57000000000005" width="70" height="16" as="geometry" />
+        </mxCell>
         <mxCell id="p3zBbSwWraFgUXBVUTmJ-172" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#475E75;fillColor=#F5F6F7;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="350" y="50" width="830" height="180" as="geometry" />
         </mxCell>
@@ -171,9 +174,6 @@
               <mxPoint x="884" y="924" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="6_qQM6AZ4Ct-V2CyC2Vg-13" value="Deployed Fiori application" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="900" y="880.3" width="120.21" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6_qQM6AZ4Ct-V2CyC2Vg-16" value="Fiori application&lt;div&gt;access&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="106.9" y="919" width="120.21" height="30" as="geometry" />
@@ -240,7 +240,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6_qQM6AZ4Ct-V2CyC2Vg-77" value="Cloud Connector&lt;div&gt;Connections&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="558.97" y="685" width="120.21" height="30" as="geometry" />
+          <mxGeometry x="747.13" y="689" width="99.18" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6_qQM6AZ4Ct-V2CyC2Vg-78" value="&lt;p style=&quot;line-height: 100%; font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;&lt;font face=&quot;arial black&quot; style=&quot;font-size: 12px;&quot; color=&quot;#ffffff&quot;&gt;2&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#0057D2;strokeColor=none;gradientDirection=east;fillColor=#2395FF;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=default;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;verticalAlign=middle;container=0;" parent="1" vertex="1">
           <mxGeometry x="618" y="859" width="17" height="17" as="geometry" />
@@ -304,6 +304,9 @@
         </mxCell>
         <mxCell id="6_qQM6AZ4Ct-V2CyC2Vg-87" value="&lt;p style=&quot;line-height: 100%; font-size: 12px;&quot;&gt;&lt;font face=&quot;arial black&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;8&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#0057D2;strokeColor=none;gradientDirection=east;fillColor=#2395FF;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=default;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;verticalAlign=middle;container=0;" parent="1" vertex="1">
           <mxGeometry x="684.3757634730539" y="520.0044688893929" width="17.000000000000004" height="17.000000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="IPbXZxyD0xjH7kE0ik-t-1" value="" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=Cloud_Connector2;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="846.31" y="683" width="34" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
